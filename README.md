@@ -1,0 +1,2 @@
+# Cube Area Projection
+A cube exists in and occupies space in 3D. Let's say there is a point of light infinitely far away. The light causes a projected shadow of the cube down onto a flat surface. What is the average area of the shadow that is created as the cube is rotated in all 3 axes?
